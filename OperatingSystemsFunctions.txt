@@ -1,0 +1,2 @@
+File management is an important function because it manages your files and shows what files/folders you have. Without it you cannot edit or change files, if need be. 
+Organizing all data, files into folders, is a great way to stay organize and keep work flow smooth.
