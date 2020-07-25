@@ -2,3 +2,5 @@ File management is an important function because it manages your files and shows
 
 Monitoring preformance is a great way to see if your computer is running healthy. From checking the CPU to the GPU, this function 
 can show a lot. For example, with Memory we can see what app is pulling too much power and decide if we should keep the app running or not.
+
+An uninstaller is a great function when you wanna get an application or program out of your system. I have used an unistaller to make space or because I didn't like it. Uninstalling your apps is also a great way to clean your computer, like getting old and nasty folders and files out of a filing cabinet.  
