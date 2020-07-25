@@ -1,2 +1,4 @@
-File management is an important function because it manages your files and shows what files/folders you have. Without it you cannot edit or change files, if need be. 
-Organizing all data, files into folders, is a great way to stay organize and keep work flow smooth.
+File management is an important function because it manages your files and shows what files/folders you have. Without it you cannot edit or change files, if need be. Organizing all data, files into folders, is a great way to stay organize and keep work flow smooth.
+
+Monitoring preformance is a great way to see if your computer is running healthy. From checking the CPU to the GPU, this function 
+can show a lot. For example, with Memory we can see what app is pulling too much power and decide if we should keep the app running or not.
